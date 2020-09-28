@@ -13,6 +13,8 @@ There were total of 15 schools with the total students of 39,170 students with a
 
 **School Summary**
 Only after the data were replaced as board instructed we saw a significant jump in the overall rakning of Thomas High School to top 5 with the increase of ~30% in % passing math, reading and overall passing.
+
+![image](https://user-images.githubusercontent.com/67131400/94392112-eead9f00-011c-11eb-92fc-5e45f8902652.png)
   
   **Replacing ninth graders' and reading scores for Thomas High School**
   1. Passing reading percentage is 84.65%
