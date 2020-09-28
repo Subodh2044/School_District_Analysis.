@@ -8,6 +8,8 @@ The purpose of this analysis is to investigate the data about the suspician scho
 
 **District Summary**
 There were total of 15 schools with the total students of 39,170 students with average math and average reading score of 78.9 and 81.9 respectively. Passing percentage for percentage passing math is 73.9% and percentage passing Reading is 84.7% witht he oversall passing of 64.1%.There was a slighlt decrease in % Passing Math, % Passing Reading and % Overall.
+![image](https://user-images.githubusercontent.com/67131400/94391988-ac845d80-011c-11eb-8454-79151083207e.png)
+
 
 **School Summary**
 Only after the data were replaced as board instructed we saw a significant jump in the overall rakning of Thomas High School to top 5 with the increase of ~30% in % passing math, reading and overall passing.
